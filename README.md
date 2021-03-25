@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejaljadhav
-- 👀 I’m interested in python and macchine learning
-- 🌱 I’m currently learning machine learning. i love to teach machine to give accurate predictions.
+- 👀 I’m interested in python and machine learning.
+- 🌱 I’m currently learning machine learning. I speak python, powershell, c#.
 - 📫 you can reach me out at tejal.jadhav12@gmail.com
 
 <!---
